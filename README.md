@@ -1,4 +1,4 @@
-###  Sql Logs Analysis
+  Sql Logs Analysis
 
 
 ### About the project
