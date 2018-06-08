@@ -101,7 +101,7 @@ def days_with_errors():
         errors = str(round(z[1]*100, 1)) + "%" + " errors"
         print(date_of_error + " -- " + errors)
 
-        
+
 top_articles()
 top_authors()
 days_with_errors()
