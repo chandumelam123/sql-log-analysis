@@ -25,4 +25,4 @@ database tables list
 	- Articles 
 	- Log 
 
-run python newsdata.py (or) python3 newsdata.py from shell to run newsdata.py;
+run python logs.py (or) python3 logs.py from shell to run newsdata.py;
